@@ -1,0 +1,1 @@
+Simple send mail function to use with Amazon SES
